@@ -2,7 +2,7 @@
 A project, while learning JavaScript.
 This is a webapp in which on every click of the button, a random color is generated.
 
-## LINK TO THE VIEW WEB APP
+## LINK TO VIEW THE WEB APP
 - [Color Flipper web app](https://color-flipper-11.web.app/)
 
 ## WEB APP IMAGE
