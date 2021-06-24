@@ -4,6 +4,6 @@ This is a webapp in which on every click of the button, a random color is genera
 
 ![webpage-ss](images/webpage-ss.png)
 
-ABOUT ME
+## ABOUT ME
 Minku Singh
  - [LinkedIn](https://www.linkedin.com/in/minku-singh-2943a51a5/)
