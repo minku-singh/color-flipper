@@ -1,6 +1,7 @@
 # color-flipper
 A project, while learning JavaScript.
 This is a webapp in which on every click of the button, a random color is generated.
+Built while learning JS.
 
 ## LINK TO VIEW THE WEB APP
 - [Color Flipper web app](https://color-flipper-11.web.app/)
